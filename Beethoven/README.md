@@ -4,7 +4,7 @@
 
 ```text  
 
-Solo of Beethoven's Sonata in F (this has been transposed to E)
+Solo of Beethoven's Sonata in F 2nd Movement (this has been transposed to E)
 
 |---12-----------------------------------------------------------------
 |---------------------------------------0--------------------4---------
