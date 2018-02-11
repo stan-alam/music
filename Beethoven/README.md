@@ -97,3 +97,9 @@ Solo of Beethoven's Sonata in F 2nd Movement (this has been transposed to E)
          120
 
 ```
+
+Acceptance Criteria :
+
+<a>
+  <img src="https://github.com/stan-alam/STN-Sprints/blob/develop/sprints/2018/02/STN-1/Quick-sheets-69.svg" width="80%" height="80%">
+</a>
