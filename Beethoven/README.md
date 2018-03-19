@@ -1,6 +1,6 @@
 ## Music of Beethoven for line 6 Variax 24 fret guitar
 
-**with gtk3-pickup and Roland effects pedal > 33**
+**with GK-3 pickup and Roland effects pedal > 33**
 
 ```text  
 
