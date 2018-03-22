@@ -630,12 +630,6 @@ E|------------------------------------------------|
 
 ```
 
-Acceptance Criteria :
-
-<a>
-  <img src="https://github.com/stan-alam/STN-Sprints/blob/develop/sprints/2018/02/STN-1/Quick-sheets-69.svg" width="80%" height="80%">
-</a>
-
 ## Beethoven's "Spring" Sonata 2nd movement for guitar
 
 <a>
