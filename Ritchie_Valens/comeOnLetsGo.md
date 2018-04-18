@@ -1,4 +1,4 @@
-## Come on Let's Go - Ritchie Valens - guitar chords with melody (fingerstyle)
+## Come On, Let's Go - Ritchie Valens - guitar chords with melody (fingerstyle)
 
 **Inspired by Kelly Valleau's arrangement of 'La Bamba', made famous by Ritchie Valens**
 
