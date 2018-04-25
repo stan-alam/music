@@ -1,6 +1,6 @@
 # Memphis, Tenessee (fingerstyle for guitar)
 ## Chuck Berry
-
+**harmony with melody**
 ```text
 
 |-0------|--------|----------------------|-0-------------|------------
