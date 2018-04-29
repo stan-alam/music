@@ -1,0 +1,188 @@
+www.holistic-songwriting.com 
+
+
+The Formula 
+
+100+Chord Progressions 
+
+
+
+“Why the hell would you even make a guide like this? Clearly there is no one formula to summarise all of 
+Nirvana’s work, right?" 
+Right. My intention withthis PDFis to a)give you a quickstartinto writing grungy chord progressions next 
+time you’re sitting down to write and b) to understand Nirvana’s band sound better. I’m notclaiming that 
+using this formula willturn you into the nextKurtCobain, butmaybe itwillhelp you find your unique sound. 
+The Mindset 
+www.holistic-songwriting.com1) Power Chords only 
+Cobain almostexclusivelyuses Power Chords. He mightoccasionallyadd a fifthon top (1-5-8-5instead of 
+1-5or 1-5-8)when he’s playing inDrop Dthough (otherwise thisvoicing is veryuncomfortable to play). 
+2) Write in Major, then simplify 
+Even though power chords are neither major or minor, mostofNirvana’schord progressions havea major feel 
+to them (mostsongs haveno morethan 1minor chord -i.e. Lithium is D -F# -Bm -G -Bb -C -A -C). When 
+writing your melody, playallchords as major triads and adapt the melody. Your melody willsound grungier 
+this way. When you’refinished writing your melody, simplifythe chords to power chords again. 
+2 crucial things to remember: 
+
+Symbols! Formulas! What??? 
+www.holistic-songwriting.com
+"You’re using new terminology for this PDF than classical music theory. Why?” 
+Because Cobain wasn’tthinking in classicalmusic theoryterms. Using functionalharmonyto describe whathe’s 
+doing reads rather unpleasantlybecause he often changes keymid-song or uses (traditionally)nonsensicalchords. 
+As you willsee, the terminology I use has more to do withthe actualchord-to-chord movementthan how the chords 
+relate to the key(similar to Neo-RiemannianTheory). This mirrors how a guitaristwithno musicaleducation 
+approaches chords:visually(notthinking in terms of “thirds” butin terms of “moving up 3steps”). 
+The terminology explained 
+X, Y, Z:anychords thatare differentfrom one another (these willbe power chords) 
+(M):major feel, i.e. even though this chord willbe a power chord, write your melody playing a major triad here. 
+(r): the bass note from this power chord comes from the relative key, i.e. ifyour chord progression is setin Cmajor, this willbe a 
+bass note from Cminor. 
+b3, 3, 4: move a minor third (3halfsteps), a major third (4halfsteps)or a fourth(5halfsteps)to getto this power chord. 
+b3: move a minor third (3halfsteps)to getto this power chord. 
++, -, ±: move up, down or either (you choose). 
+Example: 
+X+b3±4(M)-b3/3reads as starton any power chord, moveUPaminor third(3halfsteps), choose whether to move upor down a 4th(5 
+halfsteps)and playthatchordas a major chord,then move down either a minor third(3halfsteps)or amajor third(4halfsteps). So 
+this formula couldmean: C5-Eb5-Ab-F or C5-Eb5-Ab-Fb5or C5-Eb5-Bb5-G5or C5-Eb5-Bb5-Gb5. 
+"You’re using new terminology for this PDF than classical music theory. Why?” 
+Because Cobain wasn’tthinking in classicalmusic theoryterms. Using functionalharmonyto describe whathe’s 
+doing reads rather unpleasantlybecause he often changes keymid-song or uses (traditionally)nonsensicalchords. 
+As you willsee, the terminology I use has more to do withthe actualchord-to-chord movementthan how the chords 
+relate to the key(similar to Neo-RiemannianTheory). This mirrors how a guitaristwithno musicaleducation 
+approaches chords:visually(notthinking in terms of “thirds” butin terms of “moving up 3steps”). 
+The terminology explained 
+X, Y, Z:anychords thatare differentfrom one another (these willbe power chords) 
+(M):major feel, i.e. even though this chord willbe a power chord, write your melody playing a major triad here. 
+(r): the bass note from this power chord comes from the relative key, i.e. ifyour chord progression is setin Cmajor, this willbe a 
+bass note from Cminor. 
+b3, 3, 4: move a minor third (3halfsteps), a major third (4halfsteps)or a fourth(5halfsteps)to getto this power chord. 
+b3: move a minor third (3halfsteps)to getto this power chord. 
++, -, ±: move up, down or either (you choose). 
+Example: 
+X+b3±4(M)-b3/3reads as starton any power chord, moveUPaminor third(3halfsteps), choose whether to move upor down a 4th(5 
+halfsteps)and playthatchordas a major chord,then move down either a minor third(3halfsteps)or amajor third(4halfsteps). So 
+this formula couldmean: C5-Eb5-Ab-F or C5-Eb5-Ab-Fb5or C5-Eb5-Bb5-G5or C5-Eb5-Bb5-Gb5. 
+
+Formula #1: X(M)±b3(M) 
+www.holistic-songwriting.com
+“I want to write a simple, 2-chord chorus in the style of Nirvana. What chord progression 
+would you recommend?” 
+Ohme, you alwaysaskthe bestquestions, you handsome devil, you. Let’s startwiththis 
+classic Nirvana chord progression, found inIn Bloom, Come As YouAreand Drain You. 
+Examples 
+C-Eb:In traditionalharmony, this would be called moving up to the chromatic mediant. 
+C-Ab:In traditionalharmony, this would be called moving down to the chromatic mediant. 
+In classical terms:I-bIII or I-bVI 
+“I want to write a simple, 2-chord chorus in the style of Nirvana. What chord progression 
+would you recommend?” 
+Ohme, you alwaysaskthe bestquestions, you handsome devil, you. Let’s startwiththis 
+classic Nirvana chord progression, found inIn Bloom, Come As YouAreand Drain You. 
+Examples 
+C-Eb:In traditionalharmony, this would be called moving up to the chromatic mediant. 
+C-Ab:In traditionalharmony, this would be called moving down to the chromatic mediant. 
+In classical terms:I-bIII or I-bVI 
+
+Formula #2: X(M)±4(M)+b3(M)±Y(r,M) 
+www.holistic-songwriting.com“I was always bad at maths. Could you explain this in plain English?” 
+Anything for you, voice-in-my-head-that-tells-me-to-kick-toddlers. Starton anypower chord and move 
+up or down 5halfsteps. Then move up 3halfsteps (when you’re writing a melody to your chord 
+progression, playthis as a major chord). End on a major chord builton a bass note from the relative 
+minor key. When you’re writing a melody to these chords, allchords countas major chords. 
+C-G-Bb-Eb 
+C-G-Bb-Ab 
+C-G-Bb-Bb 
+C-G-Bb-D 
+C-G-Bb-G 
+C-G-Bb-Eb 
+C-F-Ab-D 
+C-F-Ab-G 
+C-F-Ab-Eb 
+Examples 
+
+C-F-Ab-Eb 
+C-F-Ab-Ab 
+C-F-Ab-Bb 
+
+
+
+Formula #3: X±b3/3±Y(M)+b3(M) 
+www.holistic-songwriting.com“This looks complicated.” 
+It looks more complicated than itis. Justgo through itstep bystep and you’llbe fine. 
+Justpicka starting chord and move up or down a minor or major third. Thenpickanother 
+chord and move up a minor third. 
+C5-Eb5-F-Ab 
+C5-Eb5-F#-A 
+C5-Eb5-G-Bb 
+C5-Eb5-Ab-B 
+C5-Eb5-A-C 
+C5-Eb5-Bb-Db 
+C5-Eb5-B-D 
+C5-Eb5-C-Eb 
+C5-Eb5-Db-E 
+C5-Eb5-D-F 
+C5-Eb5-E-G 
+C5-A5-F-Ab 
+C5-A5-F#-A 
+C5-A5-G-Bb 
+C5-A5-Ab-B 
+C5-A5-Bb-Db 
+C5-A5-B-D 
+C5-A5-C-Eb 
+C5-A5-Db-E 
+C5-A5-D-F 
+C5-A5-Eb-Gb 
+C5-A5-E-G 
+C5-E5-F-Ab 
+C5-E5-F#-A 
+C5-E5-G-Bb 
+C5-E5-Ab-B 
+C5-E5-A-C 
+C5-E5-Bb-Db 
+C5-E5-B-D 
+C5-E5-C-Eb 
+C5-E5-Db-E 
+C5-E5-D-F 
+C5-E5-Eb-Gb 
+Examples 
+
+C5-Ab5-F-Ab 
+C5-Ab5-F#-A 
+C5-Ab5-G-Bb 
+C5-Ab5-A-C 
+C5-Ab5-Bb-Db 
+C5-Ab5-B-D 
+C5-Ab5-C-Eb 
+C5-Ab5-Db-E 
+C5-Ab5-D-F 
+C5-Ab5-Eb-Gb 
+C5-Ab5-E-G 
+
+
+
+“I want more chord progressions!” 
+If you wantto craftyour own Nirvana-esque chord progressions, I gotone more for tip you:AlotofNirvana’s chord 
+progressions are builton sequencing outchord movement. In other words, you starton a chord (X), move that 
+chord somewhere and remember byhow manysemitones (±?)you moved. Then you go to anyother chord (Y)and 
+do thatsame move (±?)again. Allofthis iseasiestto see on guitar where the chord shapes give you a visualclue. 
+Formula #4: X ±? ±Y ±? 
+www.holistic-songwriting.comExample: 
+You startoutin Cand randomlymove to F. That’sup a fourth(5semitones up). So X=Cand ±?=+5. Now all 
+you have to do ispickanother random chord Y. Sayyou pickEb. Thatwillmakethe lastchord (Eb+5 
+semitones=)Ab. So your finalchord progression willread: 
+C-F-Eb-Ab 
+Here’s a few more examples using different intervals and random Y-chords: 
+C-G-Eb-Bb (up a fifth), C-G-D-A(up a fifth), C-Ab-B-G(down a major third), C-F#-Eb-A(down a tritone), etc. 
+
+“This was great! Now tell me everything you know!" 
+You gotit. If you liked thisPDF, the courses are the nextlogicalstep. Since you already let 
+me know thatyou’re into music theorybydownloading this guide I’ve taken the libertyto 
+pre-selecttwocourses thatmightinterestyou as well: 
+What’s next? 
+www.holistic-songwriting.comThe Hook/Melody Master Files 
+If you’re looking for a realbrain cruncher, this is it. Definitelymyheaviest 
+course, butpacked tothebrim with7approachesto writing interesting, 
+memorablehooks. Getitat holistic-songwriting.com/products 
+The Addiction Formula 
+If you like whatI do on the ArtistsSeries, I KNOWyou’re gonna love the booksinceit’s 
+essentiallydoing thesame thing: connecting things you already know into a holistic web. 
+Get iton Amazon or holistic-songwriting.com/products 
+
