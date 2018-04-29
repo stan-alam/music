@@ -8,7 +8,7 @@ Audible frequencies are from 20 Hz. to 25,000 Hz.
 
 the speed of light is  299,792,458 meters per second. The wave length of a particular color may be expressed in meters (nanometers or Angstroms).
 299,792,458 meters is equivalent to a number of wavelengths, which may be determined by dividing 299,792,458 by the distance in meters of one wavelength.
-i.e. frequency = (meters travelled by light per second) _ (wavelength of specific color)
+i.e. frequency = (meters traveled by light per second) _ (wavelength of specific color)
 
 E.g: for 5800 Angstroms (yellow) Frequency = 299,792,458 / 0.000,000,58 = 516,883,530,000,000 Hz.
 
