@@ -2,6 +2,8 @@
 
 Extrapolated from LucyTunings.com
 
+http://www.astronet.ru/db/xware/msg/1162768
+
 Audible frequencies are from 20 Hz. to 25,000 Hz.
 
 the speed of light is  299,792,458 meters per second. The wave length of a particular color may be expressed in meters (nanometers or Angstroms).
