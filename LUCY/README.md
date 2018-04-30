@@ -1,8 +1,12 @@
-## General messing around with Lucy tuning, "music of the spheres."
+## using Lucy tuning, "music of the spheres." instead of geometric intervals between objects such as planets or stars
+## use geometric progression of the electromagnetic spectrum from celestial object
+## pulsar
 
-Extrapolated from LucyTunings.com
+extracted from LucyTunings.com
 
 http://www.astronet.ru/db/xware/msg/1162768
+
+http://news.bbc.co.uk/2/hi/science/nature/1024779.stm
 
 Audible frequencies are from 20 Hz. to 25,000 Hz.
 
@@ -12,7 +16,7 @@ i.e. frequency = (meters traveled by light per second) _ (wavelength of specific
 
 E.g: for 5800 Angstroms (yellow) Frequency = 299,792,458 / 0.000,000,58 = 516,883,530,000,000 Hz.
 
-As octaves are a result of doubling or halving frequency this high frequency may be reduced to a precise audible value by cumulative halving.
+### As octaves are a result of doubling or halving frequency this high frequency may be reduced to a precise audible value by cumulative halving.
 
 Take 516,883,530,000,000 hertz divide by 2 that means one octave lower.
 
