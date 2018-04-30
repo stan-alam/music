@@ -1,6 +1,8 @@
-## using Lucy tuning, "music of the spheres." instead of geometric intervals between objects such as planets or stars
-## use geometric progression of the electromagnetic spectrum from celestial object
-## pulsar
+## linear mapping of light spectra from celestial object to musical notes based on Lucy Tuning. 
+## using Lucy tuning, "music of the spheres." geometric intervals between astronomical objects, instead use electromagnetic radiation.
+## Objective:
+transform stuff from
+The observable universe to music.
 
 extracted from LucyTunings.com
 
