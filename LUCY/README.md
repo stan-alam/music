@@ -3,6 +3,8 @@
           In lieu of using geometric intervals between astronomical objects, I will be using  
           the wavelengths within the electromagnetic radiation.
 
+https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_files/Phil-2.svg
+
 ## Objective:
 
 **1. transform stuff from The observable universe to music.** --colloquially speaking
@@ -18,7 +20,7 @@
 ### I will be using Python to process datasets into patterns/melodies from various astronomical organizations
 ### I may also use the Java JFugue API not all inclusive to Python
 
-extracted from LucyTunings.com
+extracted from http://www.harmonics.com/lucy/
 
 http://www.astronet.ru/db/xware/msg/1162768
 
