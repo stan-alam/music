@@ -1,8 +1,21 @@
-## linear mapping of light spectra from celestial object to musical notes based on Lucy Tuning. 
-## using Lucy tuning, "music of the spheres." geometric intervals between astronomical objects, instead use electromagnetic radiation.
+## linear mapping of light spectra from celestial object to melodic patterns based on Lucy Tuning.
+## Similar to Pythagoras/Kepler music of the spheres." In lieu of using geometric intervals between astronomical objects, I will be using  
+## the wavelengths within the electromagnetic radiation.
+
 ## Objective:
-transform stuff from
-The observable universe to music.
+
+**1. transform stuff from The observable universe to music.** --colloquially speaking
+
+**2. Learn a little Python on the way**
+
+**3. This will serve as my independent study project in DataScience**
+
+**4. Learn music theory (and a little math)**
+
+**5. Most of all having fun**
+
+### I will be using Python to process datasets into patterns/melodies from various astronomical organizations
+### I may also use the Java JFugue API not all inclusive to Python
 
 extracted from LucyTunings.com
 
@@ -26,20 +39,17 @@ Take 516,883,530,000,000 hertz divide by 2 that means one octave lower.
 
 129,220,882,500,000 / 2
 
-64,610,441,250,000  then divide by 2 again
+64,610,441,250,000 divide this by 2 again
 
+you do this eight times from 516,883,530,000,000 hertz
 
-you do this for 8 times from 516,883,530,000,000 hertz
+you will arrive at 470.102 hertz.
 
-and you will get 470.102 hertz so
-which is Bb because  B flat on the guitar is =  472.27 hertz
-So that light is = to B flat
+Which is Bb, while B flat on the guitar is =  472.27 hertz
+So that frequency is mapped to B flat
 
 the A note is 440 hertz
 
-
 A 440-------------------- 437.832 Orange-Yellow
-A# 457.75-------------- 455.582 Yellow-Orange
-
-
-Bb 472.27---------------            470.102 Yellow
+A# 457.75----------------   455.582 Yellow-Orange
+Bb 472.27-----------------    470.102 Yellow
