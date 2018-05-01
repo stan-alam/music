@@ -1,6 +1,7 @@
-## linear mapping of light spectra from celestial object to melodic patterns based on Lucy Tuning.
-## Similar to Pythagoras/Kepler music of the spheres." In lieu of using geometric intervals between astronomical objects, I will be using  
-## the wavelengths within the electromagnetic radiation.
+## linear mapping of light spectra from celestial object to musical notes based on Lucy Tuning.
+## Similar to Pythagoras/Kepler, "music of the spheres." 
+          In lieu of using geometric intervals between astronomical objects, I will be using  
+          the wavelengths within the electromagnetic radiation.
 
 ## Objective:
 
@@ -50,6 +51,6 @@ So that frequency is mapped to B flat
 
 the A note is 440 hertz
 
-A 440-------------------- 437.832 Orange-Yellow
-A# 457.75----------------   455.582 Yellow-Orange
-Bb 472.27-----------------    470.102 Yellow
+	A 440 - >    437.832 Orange-Yellow
+	A# 457.75 -> 455.582 Yellow-Orange
+	Bb 472.27 -> 470.102 Yellow
