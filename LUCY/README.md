@@ -36,9 +36,9 @@ E.g: for 5800 Angstroms (yellow) Frequency = 299,792,458 / 0.000,000,58 = 516,88
 
 ### As octaves are a result of doubling or halving frequency this high frequency may be reduced to a precise audible value by cumulative halving.
 
-Take 516,883,530,000,000 hertz divide by 2 that means one octave lower.
+Take 516,883,530,000,000 hertz divide this value by 2. ( an ctave lower )
 
-258,441,765,000,000 then divide that by 2 an octave lower
+258,441,765,000,000 this value is again divided into 2 ( an octave lower )
 
 129,220,882,500,000 / 2
 
@@ -48,8 +48,8 @@ you do this eight times from 516,883,530,000,000 hertz
 
 you will arrive at 470.102 hertz.
 
-Which is Bb, while B flat on the guitar is =  472.27 hertz
-So that frequency is mapped to B flat
+Which is Bb, while B flat on the guitar is 472.27 hertz
+So this particular frequency is mapped to B flat
 
 the A note is 440 hertz
 
