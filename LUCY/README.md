@@ -5,7 +5,7 @@
 
 https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_files/Phil-2.svg
 
-    Presently human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the spectrometer. The main idea of the project was germinated in the late 1990s early 2000s. Using Turbo Pascal 6.0, Q-Basic for mapping the color-light-pitch. The datasets and technological advancements (mainly APIs) were not available at that time. Currently, access to the vast datasets are open to the public and available for high-speed download, and various programming tools have been developed for allowing this project to begin in earnest and continue.
+Presently human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the spectrometer. The main idea of the project inspired in the late 1990s early 2000s using Q-Basic and the Pascal programming language. I was using Turbo Pascal 6.0, sound(), and delay(). Pascal's sound function does not support floating point values, and because of this, I became limited to the c-major and a-minor scales. (no accidentals)The datasets and technological advancements such as hardware, APIs, and programming toolsets were not available at that time. I was using a 1994-95 era 80486 DX2 - Packard Bell 251CD Axcel desktop, 14 k modem, 8 megabytes of R.A.M, Windows 3.11, MS-DOS 6.22. Currently, access to the vast datasets are open to the public and available for high-speed download, various programming tools have also been developed since 1995 ( which are "light years" ahead of what was available for the programming/music hobbyist/enthusiast -relatively speaking. )
 
 ## Objective:
 
@@ -38,11 +38,11 @@ E.g: for 5800 Angstroms (yellow) Frequency = 299,792,458 / 0.000,000,58 = 516,88
 
 ### As octaves are a result of doubling or halving frequency this high frequency may be reduced to a precise audible value by cumulative halving.
 
-Take 516,883,530,000,000 hertz divide this value by 2. ( an ctave lower )
+Take 516,883,530,000,000 hertz divide this value by 2. ( an octave lower )
 
-258,441,765,000,000 this value is again divided into 2 ( an octave lower )
+258,441,765,000,000 this value is again divided by 2 ( an octave lower )
 
-129,220,882,500,000 / 2
+(129,220,882,500,000 / 2)
 
 64,610,441,250,000 divide this by 2 again
 
