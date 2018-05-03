@@ -1,21 +1,23 @@
 ## linear mapping of light spectra from celestial object to musical notes based on Lucy Tuning.
-## Similar to Pythagoras/Kepler, "music of the spheres." 
+## Similar to Pythagoras/Kepler, "music of the spheres."
           In lieu of using geometric intervals between astronomical objects, I will be using  
           the wavelengths within the electromagnetic radiation.
 
 https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_files/Phil-2.svg
 
+**Presently human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the spectrometer. The main idea of the project was germinated in the late 1990s early 2000s. Using Turbo Pascal 6.0, Q-Basic for mapping the color-light-pitch. The datasets and technological advancements (mainly APIs) were not available at that time. Currently, access to the vast datasets are open to the public and available for high-speed download, and various programming tools have been developed for allowing this project to continue.**
+
 ## Objective:
 
 **1. transform stuff from The observable universe to music.** --colloquially speaking
 
-**2. Learn a little Python on the way**
+**2. Learn a little more Python on the way**
 
 **3. This will serve as my independent study project in DataScience**
 
-**4. Learn music theory (and a little math)**
+**4. Learn music theory ( and apply mathematical rigor )**
 
-**5. Most of all having fun**
+**5. Oh, and this is for fun, anyone can join!
 
 ### I will be using Python to process datasets from various astronomical organizations into patterns/melodies of music.
 ### I may also use the Java JFugue API not all inclusive to Python
