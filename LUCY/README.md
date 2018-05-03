@@ -17,7 +17,7 @@ https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_
 
 **5. Most of all having fun**
 
-### I will be using Python to process datasets into patterns/melodies from various astronomical organizations
+### I will be using Python to process datasets from various astronomical organizations into patterns/melodies of music.
 ### I may also use the Java JFugue API not all inclusive to Python
 
 extracted from http://www.harmonics.com/lucy/
@@ -50,6 +50,8 @@ you will arrive at 470.102 hertz.
 
 Which is Bb, while B flat on the guitar is 472.27 hertz
 So this particular frequency is mapped to B flat
+
+http://www.harmonics.com/lucy/lsd/freq2wl.html
 
 the A note is 440 hertz
 
