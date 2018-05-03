@@ -5,7 +5,7 @@
 
 https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_files/Phil-2.svg
 
-**Presently human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the spectrometer. The main idea of the project was germinated in the late 1990s early 2000s. Using Turbo Pascal 6.0, Q-Basic for mapping the color-light-pitch. The datasets and technological advancements (mainly APIs) were not available at that time. Currently, access to the vast datasets are open to the public and available for high-speed download, and various programming tools have been developed for allowing this project to begin in earnest and continue.
+**Presently human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the spectrometer. The main idea of the project was germinated in the late 1990s early 2000s. Using Turbo Pascal 6.0, Q-Basic for mapping the color-light-pitch. The datasets and technological advancements (mainly APIs) were not available at that time. Currently, access to the vast datasets are open to the public and available for high-speed download, and various programming tools have been developed for allowing this project to begin in earnest and continue.**
 
 ## Objective:
 
@@ -20,7 +20,7 @@ https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_
 **5. Oh, and this is for fun, anyone can join!**
 
 ### I will be using Python to process datasets from various astronomical organizations into patterns/melodies of music.
-### I may also use the Java JFugue API not all inclusive to Python
+### I may also use the Java JFugue API (not all inclusive to Python)
 
 extracted from http://www.harmonics.com/lucy/
 
