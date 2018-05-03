@@ -19,7 +19,7 @@ Presently human beings can observe the light emitted from stars and deduce the c
 
 **5. Oh, and this is for fun, anyone can join!**
 
-### I will be using Python to process datasets from various astronomical organizations into patterns/melodies of music.
+### I will be using Python to process datasets from the various astronomical organizations and convert these patterns into music.
 ### I may also use the Java JFugue API (not all inclusive to Python)
 
 extracted from http://www.harmonics.com/lucy/
