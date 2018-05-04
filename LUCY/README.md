@@ -5,7 +5,17 @@
 
 https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_files/Phil-2.svg
 
-Presently human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the spectrometer. The main idea of the project inspired in the late 1990s early 2000s using Q-Basic and the Pascal programming language. I was using Turbo Pascal 6.0, sound(), and delay(). Pascal's sound function does not support floating point values, and because of this, I became limited to the c-major and a-minor scales. (no accidentals)The datasets and technological advancements such as hardware, APIs, and programming toolsets were not available at that time. I was using a 1994-95 era 80486 DX2 - Packard Bell 251CD Axcel desktop, 14 k modem, 8 megabytes of R.A.M, Windows 3.11, MS-DOS 6.22. Currently, access to the vast datasets are open to the public and available for high-speed download, various programming tools have also been developed since 1995 ( which are "light years" ahead of what was available for the programming/music hobbyist/enthusiast -relatively speaking. )
+Presently, human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the
+
+spectrometer. The main idea of the project was inspired in the late 1990s and early 2000s using Q-Basic and the Pascal programming language. I was using Turbo Pascal 6.0, sound(), and delay().
+
+Pascal's sound function does not support floating point values, and because of this, I became limited to the c-major and a-minor scales. (no accidentals)The data sets and technological advancements
+
+such as hardware, APIs, and programming toolsets were not available at the time. I was using a 1994-95 era 80486 DX2 - Packard Bell 251CD Axcel desktop, 14 k modem, 8 megabytes of R.A.M, Windows
+
+3.11, MS-DOS 6.22. Currently, access to the vast datasets is open to the public and available for high-speed download; various programming tools have also been developed since 1995 (which are "light
+
+years" ahead of what was available for the programming/music hobbyist/enthusiast—relatively speaking).
 
 ## Objective:
 
