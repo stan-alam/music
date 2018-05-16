@@ -56,23 +56,25 @@ So this particular frequency is mapped to B flat
 
 http://www.harmonics.com/lucy/lsd/freq2wl.html
 
+
+String frequencies of standard tuning
+    String	    Frequency	       Scientific pitch notation
+
+    1 (E)	  329.63 Hz	       E4
+
+    2 (B)	  246.94 Hz	       B3
+
+    3 (G)	  196.00 Hz	       G3
+
+    4 (D)	  146.83 Hz	       D3
+
+    5 (A)	  110.00 Hz	       A2   
+
+    6 (E)	 82.41 Hz	       E2
+
+
 the Orchestral A note is 440 hertz, the guitar A note open 5th string is 110 hertz two octaves lower.
 
 	A 440 - >    437.832 Orange-Yellow
 	A# 457.75 -> 455.582 Yellow-Orange
 	Bb 472.27 -> 470.102 Yellow
-
-
-      String frequencies of standard tuning
-      String	Frequency	       Scientific pitch notation
-      1 (E)	  329.63 Hz	       E4
-
-      2 (B)	  246.94 Hz	       B3
-
-      3 (G)	  196.00 Hz	       G3
-
-      4 (D)	  146.83 Hz	      D3
-
-      5 (A)	  110.00 Hz	      A2   
-
-      6 (E)	 82.41 Hz	        E2
