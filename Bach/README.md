@@ -1,10 +1,10 @@
 
-### Bach
+# Bach
 ## Bach Cello Suite No.1 in G - Prelude for fingerstyle guitar
 * all my own work
 
-**note there is a version on the Internet that bumps the common e major version an octave
-lower to G, however the arrangement fails to take into account the
+**note there is a version on the Internet that transposes the common e major version (on guitar) to the
+lower G (cello). However, the arrangement fails to take into account the
 G and B strings (open) as a major-third interval. My arrangement corrects this mathematical error
 ("bug")** 
 
