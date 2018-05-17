@@ -71,7 +71,7 @@ String frequencies of standard tuning
 
     5 (A)	  110.00 Hz	       A2   
 
-    6 (E)	 82.41 Hz	         E2
+    6 (E)	  82.41 Hz	       E2
 
 
 the Orchestral A note is 440 hertz, the guitar A note open 5th string is 110 hertz two octaves lower.
