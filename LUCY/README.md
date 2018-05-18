@@ -79,3 +79,8 @@ the Orchestral A note is 440 hertz, the guitar A note open 5th string is 110 her
 	A 440 - >    437.832 Orange-Yellow
 	A# 457.75 -> 455.582 Yellow-Orange
 	Bb 472.27 -> 470.102 Yellow
+
+
+<a>
+  <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-2.svg" width="80%" height="80%">
+</a>
