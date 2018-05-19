@@ -64,3 +64,15 @@
 <a>
   <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-14.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-15.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-16.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-17.svg" width="80%" height="80%">
+</a>
