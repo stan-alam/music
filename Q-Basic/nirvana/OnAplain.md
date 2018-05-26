@@ -1,7 +1,7 @@
 ## Nirvana's On a Plain(on a plane)
 
 Fingerstyle, sing a long
-
+I use a BBE Opto Stomp Optical Compressor, high threshold seems to work
 ```text
 
 e|----------------------------------3--------|----------------1----3-----
