@@ -3,8 +3,7 @@
 Fingerstyle, sing a long.
 I use a BBE Opto Stomp Optical Compressor, high threshold seems to work
 ```text
-
-pu??????u 
+Nevermind
                                                                    
 e|---------------11---------|----------------|------7-------------------
 B|-6------------------------|----------------|------6-------------------
