@@ -76,7 +76,9 @@
 <a>
   <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-17.svg" width="80%" height="80%">
 </a>
-[[comment]: # (svg file for notebook 18 is not included intentionally)
+<!---
+ (svg file for notebook 18 is not included intentionally)
+-->
 <a>
   <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-19.svg" width="80%" height="80%">
 </a>
