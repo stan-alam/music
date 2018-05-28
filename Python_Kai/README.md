@@ -88,3 +88,11 @@
 <a>
   <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-21.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-22.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-23.svg" width="80%" height="80%">
+</a>
