@@ -375,4 +375,4 @@ TODO :
 - [ ] Finish main Melody
 - [ ] Add intro chords
 - [ ] Add harmony
-- [ ] Add solo
+- [X] Add solo
