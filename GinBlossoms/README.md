@@ -373,6 +373,6 @@ E|---------------------|-----------|-------------------------------------
 TODO :
 
 - [ ] Finish main Melody
-- [ ] Add intro chords
+- [X] Add intro chords
 - [ ] Add harmony
 - [X] Add solo
