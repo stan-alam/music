@@ -1,5 +1,5 @@
 ## Eine kleine Nachtmusik
-**Serenade No. 13 for strings in G major), K. 525, is a 1787 by Wolfgang A.
+**Serenade No. 13 for strings in G major), K. 525, 1787 composition for a chamber ensemble by Wolfgang A.
 Mozart**
 
 There's a good version online by Michael Fix. I play Michael Fix's arrangement.
