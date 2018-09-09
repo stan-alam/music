@@ -86,3 +86,13 @@ the Orchestral A note is 440 hertz, the guitar A note open 5th string is 110 her
 </a>
 
 https://www.searchenginejournal.com/google-introduces-new-search-engine-for-finding-datasets/268337/
+
+```text
+"Anyone can use Dataset Search, which is still in beta, but Google emphasizes the benefits it has for journalists and data scientists.
+
+    “In today’s world, scientists in many disciplines and a growing number of journalists live and breathe data… To enable easy access to this data, we launched Dataset Search, so that scientists, data journalists, data geeks, or anyone else can find the data required for their work and their stories, or simply to satisfy their intellectual curiosity.”
+
+Dataset Search surfaces results from publishers’ sites, digital libraries, and authors’ personal web pages.
+
+Google’s new search engine is largely dependent on the schema markup for dataset providers that was rolled out in July."
+```
