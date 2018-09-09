@@ -84,3 +84,5 @@ the Orchestral A note is 440 hertz, the guitar A note open 5th string is 110 her
 <a>
   <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-2.svg" width="80%" height="80%">
 </a>
+
+https://www.searchenginejournal.com/google-introduces-new-search-engine-for-finding-datasets/268337/
