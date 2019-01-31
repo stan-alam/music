@@ -1,5 +1,10 @@
 ## Gelsomina's tune for guitar tab
 **La Strada 1954 Italian drama film directed by Federico Fellini**
+*It makes sense (from logistical point of view) to transpose half step lower to take advantage of open strings*
+TODO :
+
+- [ ] transpose half step lower
+
 all my own work
 ```text
 
