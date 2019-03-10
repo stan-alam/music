@@ -16,12 +16,12 @@ spectrometer. The main idea of the project was inspired in the late 1990s and ea
 
 **3. This will serve as my independent study project in DataScience**
 
-**4. Learn music theory ( and apply mathematical rigor )**
+**4. Learn music theory ( and apply mathematical rigour )**
 
 **5. Oh, and this is for fun, anyone can join!**
 
 ### I will be using Python to process datasets from the various astronomical organizations and convert these patterns into music.
-### I may also use the Java JFugue API (not all inclusive to Python)
+### Along with Euterpea, a Haskell music library that is analogous to the Java JFugue API.
 
 extracted from http://www.harmonics.com/lucy/
 
