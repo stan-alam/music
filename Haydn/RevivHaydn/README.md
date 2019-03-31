@@ -1,5 +1,9 @@
 ## notes on 'Reviving Haydn: New Appreciations in the Twentieth Century'
 
+<p align="center">
+  <img src="https://github.com/stan-alam/music/blob/develop/Haydn/lfOfHaydn/images/haydn.png" width="100%" height="100%">
+</p>
+
 ```text
 By the 1840s Joseph Haydn, who died in 1809 as the most celebrated composer of his
 generation, had degenerated into the bewigged "Papa Haydn," a shallow placeholder in
