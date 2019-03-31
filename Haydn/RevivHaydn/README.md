@@ -1,7 +1,7 @@
 ## notes on 'Reviving Haydn: New Appreciations in the Twentieth Century'
 
 <p align="center">
-  <img src="https://github.com/stan-alam/music/blob/develop/Haydn/lfOfHaydn/images/haydn.png" width="60%" height="60%">
+  <img src="https://github.com/stan-alam/music/blob/develop/Haydn/lfOfHaydn/images/haydn.png" width="20%" height="20%">
 </p>
 
 ```text
