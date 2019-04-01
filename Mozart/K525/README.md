@@ -3,7 +3,7 @@
 Mozart**
 
 There's a good version online by **Michael Fix**. I play Fix's arrangement.
-There's also another good arrangement by **Jay Kauffman**. This is mine.
+There's also another beautiful arrangement by **Jay Kauffman**. This is mine.
 
 ```text
 e|-3----------3----------|-3---------3----7----10----|-8----------8-----
