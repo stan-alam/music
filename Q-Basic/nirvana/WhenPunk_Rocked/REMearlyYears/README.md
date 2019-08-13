@@ -1,0 +1,7 @@
+## REM early years
+
+Robert Dean Lurie's biography is the first completely researched and written since R.E.M. disbanded in 2011. It offers by far the most detailed account of their formative years-the early lives of the band members, their first encounters with one another, their legendary debut show, touring out of the back of a van, initial recordings, their shrewdly paced rise to fame.
+
+The people and places of 'the South' are crucial to the R.E.M. story in ways much more complex and interesting than have been presented thus far, says Lurie, who explores the myriad ways in which the band's adopted hometown of Athens, Georgia, and the South in general, have shaped its members and the character and style of their art. The South is more than the background to this story; it plays a major role: the creative ferment that erupted in Athens and gripped many of its young inhabitants in the late 70s and early 80s drew on regional traditions of outsider art and general cultural out-thereness, and gave rise to a free-spirited music scene that produced the B-52's and Pylon, and laid the ground for R.E.M.'s subsequent breakout success.
+
+Lurie has tracked down and interviewed numerous figures in the band's history who were under-represented in or even absent from earlier biographies, and they contribute previously undocumented stories as well as casting a fresh light on the familiar narrative.
