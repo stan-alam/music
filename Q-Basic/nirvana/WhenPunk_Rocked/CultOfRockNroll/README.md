@@ -1,7 +1,7 @@
 ## William Burroughs and the Cult of Rock and/or Roll
 
 <a>
-  <img src="https://github.com/stan-alam/music/blob/develop/Q-Basic/nirvana/PunkRock/CultOfRockNroll/images/revLoveJoy.png" width="90%" height="90%">
+  <img src="https://github.com/stan-alam/music/blob/master/Q-Basic/nirvana/WhenPunk_Rocked/CultOfRockNroll/images/revLoveJoy.png" width="90%" height="90%">
 </a>
 
 William S. Burroughs's fiction and essays are legendary, but his influence on music's counterculture has been less well documented—until now. Examining how one of America's most controversial literary figures altered the destinies of many notable and varied musicians, William S. Burroughs and the Cult of Rock 'n' Roll reveals the transformations in music history that can be traced to Burroughs.
