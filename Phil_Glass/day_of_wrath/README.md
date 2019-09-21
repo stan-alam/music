@@ -1,6 +1,5 @@
 ## Dies Irae
-800 year old tune - for fun
-
+**800 year old tune - for fun**
 𝕍
 ```text
 
