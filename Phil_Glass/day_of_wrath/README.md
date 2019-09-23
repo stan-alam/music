@@ -1,6 +1,6 @@
 ## Dies Irae
 **800 year old tune - for fun**
-𝕍
+𝕍 - The hair of the dog that bit me 
 ```text
 
 e|-1-----0-----1-----------0------------------------|-1-----1----3------
