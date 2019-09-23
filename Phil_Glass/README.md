@@ -5,6 +5,14 @@
 T'is the Season, i.e. Halloween
 
 ```text
+And l'm not the man l used to be.
+
+              l got hooves on my shoes and horns on my head.
+
+              l want life on a platter, medium rare.
+
+              And you can keep the silverware, cos tonight l'm eatin' with my hands.
+
 
 e|-8----10-11---10-8----------------------------8----|-7----------------
 B|--------------------------8---------8---------8----|------------------
