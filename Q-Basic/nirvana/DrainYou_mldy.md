@@ -1,4 +1,4 @@
-## Melody for Nirvana's Drain You
+## Melody for NIRVANA - Drain You Radio Appearance -1991 [ John Peel Sessions ]
 
 ```text
 e|-2----0----------------|------0-----------------|---------------------
@@ -19,4 +19,4 @@ E|-----------------------|------------------------|---------------------
            4         
 have met     You.....
 
-``` 
+```
