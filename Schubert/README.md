@@ -4,10 +4,10 @@
 ## Date of composition: 1827
 ## Source: Breitkopf & Härtel, 1888
 
-transcribed and arranged for guitar 2018, All my own work.
+transcribed and arranged for guitar 2018, All my work.
 I remember attempting this back in 2001. And I just gave up. It's not impossible
 and is reasonably adaptable for the guitar. Just play slowly and accurately,
-and you should then be able to play it fluidity, as intended for piano.
+then there will be fluidity, as intended for piano.
 
        * opto stomp, optical compressor
        * Variax Line 6, 24 fret guitar
