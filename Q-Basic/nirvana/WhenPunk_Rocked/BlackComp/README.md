@@ -1,0 +1,5 @@
+## notes on Black Classical Musicians and Composers
+
+Much has been written about the work of black musicians and composers yet little attention has been given to the long history of black influence on classical music. Covering the lives and works of such composers as Chevalier de Saint-Georges, Samuel Coleridge-Taylor, Scott Joplin and Margaret Alison Bonds, this book examines the black classical music legacy with profiles of key artists who made valuable contributions that impacted classical music from the 16th through the 21st centuries.
+
+Utilizing the research of Professor Dominique-René de Lerma of Lawrence University in Appleton, Wisconsin, historian William J. Zick in the article below provides vignettes which comprise an overview of various composers and musicians of African ancestry who performed in Europe, North America, and Latin America from the 16th Century to the 20th Century. His listing begins with the earliest known black performer, John Blanke, a royal trumpeter in the Courts of Henry VII and Henry VIII.
