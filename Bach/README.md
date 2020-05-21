@@ -1,4 +1,3 @@
-
 # Bach
 ## Bach Cello Suite No.1 in G - Prelude for fingerstyle guitar
 * all my own work
