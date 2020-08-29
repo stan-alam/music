@@ -1,8 +1,8 @@
-##K331 - Rondo
+## K331 - Rondo
 **Mozart**
 **Turkish March**
-LAGA has the best version for guitar... this has a "few" more notes. (bigger chords)
-fun like, the little nightmare music.
+LAGA has the best version for guitar... this has a "few" more notes. (expanded chords)
+more fun than a little nightmare music.
 
 ```text
 |-------------|----------------------------|-0---------1----0-------0---
@@ -12,4 +12,13 @@ fun like, the little nightmare music.
 |-------------|-0----3----3--------3-------|-0----3----3-------3--------
 |-------------|----------------------------|----------------------------
 1             2                            3
+
+|-7----5--4----5--7----5--4----5--|
+|---------------------------------|
+|---------------------------------|
+|---------2---------------2-------|
+|-0-------3-------0-------3-------|
+|---------------------------------|
+4                                 5
 ```
+**not complete**
