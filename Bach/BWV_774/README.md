@@ -174,4 +174,4 @@ E|-------------------------------------|-0--2--4----2-------4--2--0------
 
 ```
 **Complete 11.06.2018**
-https://www.youtube.com/watch?v=snu9ZyyvHkE&feature=youtu.be&fbclid=IwAR3Fo-2u2hF1QhCcQPSbv4jCqLLyGmN1IGppAibf1UbVrz7NAss6pNmwLjE  
+https://youtu.be/snu9ZyyvHkE
