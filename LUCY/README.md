@@ -21,7 +21,7 @@ spectrometer. The main idea of the project was inspired in the late 1990s and ea
 **5. Oh, and this is for fun, anyone can join!**
 
 ### I will be using Python to process datasets from the various astronomical organizations and convert these patterns into music.
-### Along with Euterpea, a Haskell music library that is analogous to the Java JFugue API.
+### Along with Europa, a Haskell music library that is analogous to the Java JFugue API.
 
 extracted from http://www.harmonics.com/lucy/
 
@@ -84,6 +84,15 @@ the Orchestral A note is 440 hertz, the guitar A note open 5th string is 110 her
 <a>
   <img src="https://github.com/stan-alam/music/blob/develop/Python_Kai/01/svg_files/Notebook1-2.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/philosophy/blob/develop/JCampbell/CreativeMyths/01/images/music_spheres1.jpg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/philosophy/blob/develop/JCampbell/CreativeMyths/01/images/music_spheres2.jpg" width="80%" height="80%">
+</a>
+
 
 https://www.searchenginejournal.com/google-introduces-new-search-engine-for-finding-datasets/268337/
 
