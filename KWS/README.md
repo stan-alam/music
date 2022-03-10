@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=DfX9DvGWhy4
 this along with ace of base would play at least four times in day, on the bus ride to school in the morning, at
 art class and on the bus ride back home. 6th grade. 
 
-text```
+```text
                                                                   
 e|---13-------------13---13-----|-----11-----11--10--------|--13-|------
 B|--------15---16---------------|--15-----15--------11-----|-----|------
