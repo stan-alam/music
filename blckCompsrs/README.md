@@ -1,0 +1,3 @@
+## Black Classical Musicians and Composers 1500-2000
+notes on ->
+Much has been written about the work of black musicians and composers yet little attention has been given to the long history of black influence on classical music. Covering the lives and works of such composers as Chevalier de Saint-Georges, Samuel Coleridge-Taylor, Scott Joplin and Margaret Alison Bonds, this book examines the black classical music legacy with profiles of key artists who made valuable contributions that impacted classical music from the 16th through the 21st centuries.
