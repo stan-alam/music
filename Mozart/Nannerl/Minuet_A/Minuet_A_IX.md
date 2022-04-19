@@ -2,6 +2,7 @@ Minuet in A chord diagramA augmentedA (ref. IX) from Nannerl's Notebook.
 Arranged and transcribed by Stanislaw Alam. 'All my own work'
 *correct
 version ":)
+https://www.guitartabsexplorer.com/mozart-johann-georg-leopold-Tabs/minuet-in-a-9-tab.php
 ```text
 
 e|-0-------|-0-------5----------|-----------------------|---------7-----
