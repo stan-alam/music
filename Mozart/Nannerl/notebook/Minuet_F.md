@@ -1,8 +1,6 @@
 Watching 'In Search of Mozart, at the 12 minute 35 second mark. Forgot about it.
 Uploaded it in 2002? - 2004? on OLGA.net
 found it
-https://www.guitartabsexplorer.com/mozart-johann-georg-leopold-Tabs/minuet-in-a-9-tab.php
-
 
 ```text
 e|-0---------|-------------0---------|-------------3-----|-1-----1-------
