@@ -1,4 +1,4 @@
-## Hato to Shounene by Joe Hisaishi, Laputa Castle in the Sky
+## Hato to Shounene by Joe Hisaishi, 藤澤 守, Laputa Castle in the Sky
 
 ```ascii
 
