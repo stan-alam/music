@@ -3,6 +3,7 @@
           In lieu of using geometric intervals between astronomical objects, I will be using  
           the wavelengths within the electromagnetic radiation.
 
+https://apod.nasa.gov/apod/ap961202.html
 https://github.com/stan-alam/philosophy/blob/develop/rob_Solomon/intro_phil/svg_files/Phil-2.svg
 
 Presently, human beings can observe the light emitted from stars and deduce the chemical composition of these celestial objects through the use of the
