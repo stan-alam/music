@@ -4,4 +4,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/kamyarmg/oyna/refs/heads/main/docs/images/2048.png" alt="2048" width=200/> 
+<img src="https://github.com/stan-alam/music/blob/develop/theory/guitar/images/Ripple%20-%20page%201.png" alt="2048" width=200/> 
