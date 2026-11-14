@@ -28,6 +28,11 @@ extracted from http://www.harmonics.com/lucy/
 
 https://web.archive.org/web/20160903223643/https://www.astronet.ru/db/xware/msg/1162768
 
+<a>
+  <img src="https://github.com/stan-alam/music/blob/master/LUCY/images/oriontrails_malin.small.jpg" width="80%" height="80%">
+</a>
+
+
 Credit & Copyright: David Malin
 Explanation: What determines a star's color? Its temperature. Red stars are cool, with temperatures of around 3,000 degrees Kelvin (K), while blue stars are hotter and can have temperatures over 30,000 degrees K. Our own lovely yellow Sun's temperature is a comforting 6,000 degrees K. Differences in star colors are dramatically illustrated in the above photo of the constellation Orion, made using a "star trail step-focus" technique. In this technique, a time exposure is used to create star trails, but during the exposure, the focus is changed in steps. For the brighter stars, the blurred image produces more saturated colors in photographs. At the upper left, the cool red supergiant Betelgeuse stands out from the other, hotter, bluish stars composing the body of the constellation. Bright Rigel, a blue supergiant, is at the lower right.
 
