@@ -26,7 +26,7 @@ spectrometer. The main idea of the project was inspired in the late 1990s and ea
 
 extracted from http://www.harmonics.com/lucy/
 
-http://www.astronet.ru/db/xware/msg/1162768
+https://web.archive.org/web/20160903223643/https://www.astronet.ru/db/xware/msg/1162768
 
 http://news.bbc.co.uk/2/hi/science/nature/1024779.stm
 
